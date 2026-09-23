@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Generate full-red contribution snake
 
 on:
@@ -16,10 +17,28 @@ permissions:
 
 jobs:
   generate:
+=======
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+>>>>>>> 2426d76c2e9c1b439cf273ddedb41737e6cddb65
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+<<<<<<< HEAD
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -34,5 +53,20 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "Update full-red contribution snake"
+=======
+      - name: Generate full-red contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23E70518&color_dots=%2364040A,%238D000D,%23AE0310,%23C90112,%23E40216,%23E70518
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23E70518&color_dots=%2364040A,%238D000D,%23AE0310,%23C90112,%23E40216,%23E70518
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+>>>>>>> 2426d76c2e9c1b439cf273ddedb41737e6cddb65
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
