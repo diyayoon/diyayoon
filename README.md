@@ -78,9 +78,5 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=diyayoon&hide_border=true&background=64040A&border=8D000D&stroke=8D000D&ring=E40216&fire=E70518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E70518&sideLabels=C90112&dates=AE0310"
-    alt="Diya's GitHub Streak"
-    width="95%"
-  />
+  <img src="https://streak-stats.demolab.com?user=diyayoon&hide_border=true&background=040202&border=65171C&stroke=65171C&ring=A2202A&fire=C3744E&currStreakNum=E7CBB8&sideNums=E7CBB8&currStreakLabel=AA5336&sideLabels=AA5336&dates=C3744E" alt="Diya's GitHub Streak"/>
 </p>
