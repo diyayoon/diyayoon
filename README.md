@@ -12,7 +12,6 @@
   />
 </p>
 
----
 
 ## 🛡️ About Me
 
@@ -22,7 +21,6 @@
 - 💻 I enjoy building projects and experimenting with new technologies
 - 🚀 Currently improving my skills in **Cybersecurity & Software Development**
 
----
 
 ## 📫 Connect with Me
 
@@ -40,7 +38,6 @@
   </a>
 </p>
 
----
 
 ## 🧰 Languages & Tools
 
@@ -51,7 +48,6 @@
   />
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -73,7 +69,6 @@
   </picture>
 </p>
 
----
 
 ## 🔥 Streak Stats
 
