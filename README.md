@@ -25,15 +25,15 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/mahdiya-aisha-15fb2000" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/mhdyaisha?stkn=eW00bHo0MnVtNnV2" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:Mahdiyaa87@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/>
   </a>
 </p>
