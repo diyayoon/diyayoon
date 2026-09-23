@@ -25,7 +25,7 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/mahdiya-aisha-15fb2000" target="_blank">
+  <a href="https://www.linkedin.com/in/mahdiya-aisha-15fb2000" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
