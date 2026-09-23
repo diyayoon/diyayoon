@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=C3744E&center=true&vCenter=true&width=700&height=70&lines=Hello%2C+I'm+Diya"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=8D000D&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+I'm+Diya"
     alt="Hello, I'm Diya"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=E7CBB8&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Engineering+Student"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=AE0310&center=true&vCenter=true&width=850&height=50&lines=Cybersecurity+Engineering+Student"
     alt="Cybersecurity Engineering Student"
   />
 </p>
