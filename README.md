@@ -1,159 +1,141 @@
-<!-- ═══════════════════════ FONTAINE HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ FONTAINE HERO ═══════════════════════ -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1730,35:244D83,70:65B9E6,100:D9F5FF&height=150&section=header"
-    width="100%"
-    alt="Fontaine-inspired hydro wave"
-  />
+  <img src="./assets/fontaine-hero.svg" width="100%" alt="Hello, I'm Diya — Cybersecurity Engineering Student" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahdiya-aisha-15fb2000">
+    <img src="https://img.shields.io/badge/LinkedIn-173B65?style=for-the-badge&amp;logo=linkedin&amp;logoColor=D9F5FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Mahdiyaa87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-173B65?style=for-the-badge&amp;logo=gmail&amp;logoColor=D9F5FF" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/mhdyaisha/">
+    <img src="https://img.shields.io/badge/Instagram-173B65?style=for-the-badge&amp;logo=instagram&amp;logoColor=D8C5F2" alt="Instagram" />
+  </a>
+  <a href="https://github.com/diyayoon">
+    <img src="https://img.shields.io/badge/GitHub-diyayoon-173B65?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diyayoon&amp;style=flat-square&amp;color=65B9E6&amp;label=VISITORS" alt="Profile views" />
+  &amp;nbsp;
+  <img src="https://img.shields.io/badge/Currently-Learning-244D83?style=flat-square&amp;logo=bookstack&amp;logoColor=white" alt="Currently learning" />
+</p>
+
+<p align="center">
+  <em>“drunk on projects, sober on deadlines.”</em>
+</p>
+
+---
+
+## ✦ About Me
+
+I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam State Polytechnic**. I enjoy exploring how applications and infrastructure work—and, more importantly, how to make them more secure.
+
+- 🔐 Interested in **Web Security, Network Defense, and Secure Infrastructure**.
+- 🐍 Building with **Python** and exploring backend development.
+- 🐧 Learning through **Linux, containers, networking, and hands-on security labs**.
+- ⚙️ Enjoy connecting software development, DevOps, and cybersecurity in practical projects.
+
+## ◈ What I'm Exploring
 
 <table width="100%">
   <tr>
-    <td width="68%" align="center" valign="middle">
-      <img
-        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2800&pause=1100&color=9BE7FF&center=true&vCenter=true&width=650&height=65&lines=Hello%2C+I'm+Diya"
-        alt="Hello, I'm Diya"
-      />
-      <br />
-      <img
-        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=D8C5F2&center=true&vCenter=true&width=650&height=45&lines=Cybersecurity+Engineering+Student;Exploring+Web+Security+%26+Network+Defense;Python+%7C+Linux+%7C+DevOps;Building+secure+things%2C+one+commit+at+a+time"
-        alt="Cybersecurity interests"
-      />
-      <br />
-      <img src="https://img.shields.io/badge/FONTAINE-COURT_OF_CYBERSECURITY-19365B?style=for-the-badge&labelColor=101A31&color=4D9BCB" alt="Fontaine theme" />
-      <img src="https://komarev.com/ghpvc/?username=diyayoon&style=for-the-badge&color=244D83&label=VISITORS" alt="Profile views" />
+    <td width="33%" valign="top">
+      <h3 align="center">Application Security</h3>
+      <p align="center">Web security fundamentals<br />Burp Suite · OWASP concepts<br />Secure application workflows</p>
     </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/furina-reference.png" width="210" alt="Furina visual reference" />
+    <td width="33%" valign="top">
+      <h3 align="center">Network Defense</h3>
+      <p align="center">Network segmentation<br />OPNsense · Suricata · Wazuh<br />Monitoring and traffic analysis</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Infrastructure &amp; DevOps</h3>
+      <p align="center">Linux · Docker · Podman<br />Nginx · GitHub Actions<br />Containerized environments</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <em>✨ Every commit deserves its own grand performance. ✨</em>
-</p>
-
----
-
-## 🎭 The Performer — About Me
-
-- 🎓 Undergraduate student in Cybersecurity Engineering at Batam State Polytechnic
-- 🐍 Exploring Python, Linux, networking, and cybersecurity
-- 💧 Interested in Web Security, Network Defense, and Ethical Hacking
-- ⚙️ Building projects, breaking things ethically, and learning how to secure them
-- ✨ On a journey to become a better Cybersecurity Engineer & Developer
-
-## 💌 A Letter from Fontaine — Connect with Me
+## ✧ Tech Stack &amp; Tools
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahdiya-aisha-15fb2000">
-    <img src="https://img.shields.io/badge/LinkedIn-18365B?style=for-the-badge&logo=linkedin&logoColor=9BE7FF" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mhdyaisha/">
-    <img src="https://img.shields.io/badge/Instagram-18365B?style=for-the-badge&logo=instagram&logoColor=D8C5F2" alt="Instagram" />
-  </a>
-  <a href="mailto:Mahdiyaa87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18365B?style=for-the-badge&logo=gmail&logoColor=9BE7FF" alt="Email" />
-  </a>
+  <img src="https://stats.pphat.top/icons?name=python,php,js,html,css,docker,git,github,linux,bash,mysql,postgresql,nginx,vscode&amp;size=large&amp;effect=wave&amp;columns=5" width="100%" alt="Animated technology stack icons" />
 </p>
-
----
-
-## 💎 Skill Constellation — Tech Stack & Tools
 
 <p align="center">
-  <img
-    src="https://stats.pphat.top/icons?name=python,php,js,html,css,docker,git,github,linux,bash,mysql,vscode&size=large&effect=wave&columns=5"
-    width="100%"
-    alt="Animated technology stack icons"
-  />
+  <sub>Tools and technologies I use or explore through coursework and hands-on projects.</sub>
 </p>
 
----
-
-## 🎼 The Grand Stage — Featured Projects
+## ❖ Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>❄️ Albis Antique</h3>
-      <p>A cybersecurity-focused e-commerce project built with a Python backend and a focus on secure infrastructure.</p>
+      <p>A team-based e-commerce project focused on secure application development and infrastructure integration.</p>
+      <p><strong>Focus:</strong> Python · Flask · PostgreSQL · Docker · Nginx · Web Security</p>
       <a href="https://github.com/diyayoon/pbl317">
-        <img src="https://img.shields.io/badge/Explore_Project-244D83?style=for-the-badge&logo=github&logoColor=white" alt="Explore Albis Antique" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-244D83?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Albis Antique project" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🪄 PBL 205</h3>
-      <p>Another project from my learning journey in software development and engineering.</p>
+      <h3>🧩 PBL 205</h3>
+      <p>A project repository from my problem-based learning journey, reflecting my experience collaborating and developing technical solutions.</p>
+      <p><strong>Focus:</strong> Software Development · Engineering Practice · Teamwork</p>
       <a href="https://github.com/diyayoon/pbl205">
-        <img src="https://img.shields.io/badge/Explore_Repository-244D83?style=for-the-badge&logo=github&logoColor=white" alt="Explore PBL 205" />
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-244D83?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View PBL 205 repository" />
       </a>
     </td>
   </tr>
 </table>
 
----
+## ◇ Learning Notes
 
-## 📜 The Fontaine Archives — GitHub Statistics
+I document selected security labs and technical lessons as I learn. Topics include web vulnerabilities, Linux, networking, and practical defensive security.
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=diyayoon&show_icons=true&hide_border=true&bg_color=0B1730&title_color=9BE7FF&icon_color=78BDEB&text_color=E4F2FF"
-    alt="Diya's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyayoon&layout=compact&hide_border=true&bg_color=0B1730&title_color=9BE7FF&text_color=E4F2FF"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=diyayoon&hide_border=true&background=0B1730&ring=78BDEB&fire=D8C5F2&currStreakLabel=9BE7FF&sideLabels=B7CBE2&currStreakNum=E4F2FF&sideNums=E4F2FF&dates=8A9BB5"
-    alt="GitHub contribution streak"
-  />
+<p>
+  <a href="https://medium.com/@mahdiyaa87">
+    <img src="https://img.shields.io/badge/Read_my_notes-Medium-173B65?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Read my Medium notes" />
+  </a>
 </p>
 
 ---
 
-## 🎮 The Never-Ending Performance — Galaga Contributions
+## ✦ GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diyayoon&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1730&amp;title_color=9BE7FF&amp;icon_color=78BDEB&amp;text_color=E4F2FF&amp;rank_icon=github" alt="Diya's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyayoon&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1730&amp;title_color=9BE7FF&amp;text_color=E4F2FF&amp;langs_count=6" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diyayoon&amp;hide_border=true&amp;background=0B1730&amp;ring=78BDEB&amp;fire=D8C5F2&amp;currStreakLabel=9BE7FF&amp;sideLabels=B7CBE2&amp;currStreakNum=E4F2FF&amp;sideNums=E4F2FF&amp;dates=8A9BB5" alt="GitHub contribution streak" />
+</p>
+
+## 🎮 Contribution Arcade — Galaga
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/diyayoon/diyayoon/galaga-output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/diyayoon/diyayoon/galaga-output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/diyayoon/diyayoon/galaga-output/pacman-contribution-graph-dark.svg"
-      width="100%"
-      alt="Galaga contribution graph"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyayoon/diyayoon/galaga-output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diyayoon/diyayoon/galaga-output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/diyayoon/diyayoon/galaga-output/galaga-contribution-graph.svg" width="100%" alt="Galaga contribution graph animation" />
   </picture>
 </p>
 
 <p align="center">
-  <sub>Contribution animation generated with the <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a> action in Galaga mode.</sub>
+  <sub>My GitHub activity, turned into an arcade game with <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a>.</sub>
 </p>
 
 ---
 
 <p align="center">
-  <em>“drunk on projects, sober on deadlines”</em>
+  <em>Still learning. Still building. Always curious.</em>
   <br />
-  <sub>Thank you for attending my little performance. See you in the next commit! 💧</sub>
+  <sub>Thanks for stopping by — see you in the next commit. 💧</sub>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:D9F5FF,35:65B9E6,70:244D83,100:0B1730&height=120&section=footer"
-    width="100%"
-    alt="Fontaine hydro wave footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D9F5FF,35:65B9E6,70:244D83,100:0B1730&amp;height=125&amp;section=footer" width="100%" alt="Fontaine hydro wave footer" />
 </p>

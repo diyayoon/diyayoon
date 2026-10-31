@@ -2,7 +2,7 @@ name: Generate Galaga Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +17,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-
     steps:
       - name: Generate contribution graph in Galaga mode
         uses: abozanona/pacman-contribution-graph@main
@@ -25,7 +24,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "galaga"
 
-      - name: Publish SVGs to galaga-output branch
+      - name: Publish generated SVGs to galaga-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: galaga-output

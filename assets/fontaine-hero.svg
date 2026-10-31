@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Diya — Fontaine-inspired cybersecurity portfolio</title>
+  <desc id="desc">An animated midnight-blue and hydro-blue banner with moving water, floating bubbles, twinkling stars, and a typewriter-style introduction.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09152B"/>
+      <stop offset="0.52" stop-color="#142D50"/>
+      <stop offset="1" stop-color="#203F70"/>
+    </linearGradient>
+    <linearGradient id="waterBack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DE4F7" stop-opacity=".30"/>
+      <stop offset=".48" stop-color="#65BDEB" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#B8A1FF" stop-opacity=".34"/>
+    </linearGradient>
+    <linearGradient id="waterFront" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DDFBFF" stop-opacity=".94"/>
+      <stop offset=".45" stop-color="#78CBEF" stop-opacity=".91"/>
+      <stop offset="1" stop-color="#536DB5" stop-opacity=".96"/>
+    </linearGradient>
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".55" stop-color="#D9F7FF"/>
+      <stop offset="1" stop-color="#C8C7FF"/>
+    </linearGradient>
+    <linearGradient id="ornament" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DE4F7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#BDEFFF" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#C8B6F4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft">
+      <stop offset="0" stop-color="#78BDEB" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#78BDEB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="22" fill="url(#night)"/>
+  <circle cx="170" cy="105" r="180" fill="url(#glowLeft)"/>
+  <circle cx="1050" cy="100" r="210" fill="url(#glowLeft)" opacity=".7"/>
+  <path d="M24 24H1176" stroke="#BDEFFF" stroke-opacity=".18"/>
+  <path d="M24 316H1176" stroke="#BDEFFF" stroke-opacity=".13"/>
+
+  <!-- Clean hero header: no archive/profile labels; water and sparkle animation remain. -->
+
+  <!-- Distant stars -->
+  <g fill="#F0FCFF">
+    <path d="M170 110l4 11 11 4-11 4-4 11-4-11-11-4 11-4z" opacity=".62">
+      <animate attributeName="opacity" values=".18;.85;.18" dur="4.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 170 125" to="180 170 125" dur="18s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1033 104l3 9 9 3-9 3-3 9-3-9-9-3 9-3z" opacity=".7">
+      <animate attributeName="opacity" values=".2;.95;.2" dur="3.6s" begin="-.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M950 184l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" opacity=".55">
+      <animate attributeName="opacity" values=".15;.75;.15" dur="5.1s" begin="-2s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="270" cy="190" r="2" opacity=".75"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="910" cy="92" r="2" opacity=".8"><animate attributeName="opacity" values=".15;.9;.15" dur="3.3s" begin="-1.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Floating water bubbles -->
+  <g fill="none" stroke="#DDFBFF" stroke-width="2">
+    <circle cx="110" cy="280" r="10" opacity=".7">
+      <animate attributeName="cy" values="285;210;115" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.7;.5;0" keyTimes="0;.15;.78;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1085" cy="282" r="7" opacity=".6">
+      <animate attributeName="cy" values="285;205;110" dur="7s" begin="-2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.65;.4;0" keyTimes="0;.15;.78;1" dur="7s" begin="-2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="265" cy="300" r="5" opacity=".55">
+      <animate attributeName="cy" values="300;230;150" dur="9s" begin="-4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.6;.4;0" keyTimes="0;.15;.78;1" dur="9s" begin="-4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="945" cy="298" r="12" opacity=".5">
+      <animate attributeName="cy" values="298;220;125" dur="10s" begin="-6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.55;.35;0" keyTimes="0;.15;.78;1" dur="10s" begin="-6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Always-visible title: motion adds a soft float, but the text remains readable without animation support. -->
+  <text x="600" y="145" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="-.8" fill="url(#titleGradient)" filter="url(#glow)">
+    Hello, I'm Diya
+    <animate attributeName="opacity" values="1;.88;1" dur="5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 1;0 -1;0 1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <path d="M390 174H810" stroke="url(#ornament)" stroke-width="1.5" opacity=".75">
+    <animate attributeName="opacity" values=".35;.9;.35" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="207" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="700" letter-spacing="3" fill="#BCEFFF">
+    CYBERSECURITY ENGINEERING STUDENT
+    <animate attributeName="opacity" values=".82;1;.82" dur="4s" begin="-.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#E0F6FF" opacity=".9">
+    WEB SECURITY  •  NETWORK DEFENSE  •  DEVELOPMENT
+  </text>
+  <path d="M905 123l4 11 11 4-11 4-4 11-4-11-11-4 11-4z" fill="#EAFBFF" opacity=".75">
+    <animate attributeName="opacity" values=".2;.9;.2" dur="3.4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 905 138" to="180 905 138" dur="14s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Layered animated water -->
+  <path fill="url(#waterBack)" d="M0 245 C140 205 235 260 390 238 C535 217 650 198 790 230 C940 264 1050 215 1200 232 L1200 340 L0 340Z">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 245 C140 205 235 260 390 238 C535 217 650 198 790 230 C940 264 1050 215 1200 232 L1200 340 L0 340Z;M0 230 C140 255 235 215 390 232 C535 249 650 210 790 218 C940 226 1050 258 1200 222 L1200 340 L0 340Z;M0 245 C140 205 235 260 390 238 C535 217 650 198 790 230 C940 264 1050 215 1200 232 L1200 340 L0 340Z"/>
+  </path>
+  <path fill="url(#waterFront)" d="M0 276 C150 238 260 291 420 270 C570 250 680 226 830 261 C970 294 1080 250 1200 263 L1200 340 L0 340Z">
+    <animate attributeName="d" dur="9s" begin="-2s" repeatCount="indefinite" values="M0 276 C150 238 260 291 420 270 C570 250 680 226 830 261 C970 294 1080 250 1200 263 L1200 340 L0 340Z;M0 258 C150 284 260 250 420 263 C570 278 680 245 830 244 C970 243 1080 282 1200 254 L1200 340 L0 340Z;M0 276 C150 238 260 291 420 270 C570 250 680 226 830 261 C970 294 1080 250 1200 263 L1200 340 L0 340Z"/>
+  </path>
+  <path d="M0 276 C150 238 260 291 420 270 C570 250 680 226 830 261 C970 294 1080 250 1200 263" fill="none" stroke="#F3FDFF" stroke-width="2" opacity=".5">
+    <animate attributeName="opacity" values=".2;.65;.2" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 306 C165 282 270 317 440 301 C625 284 760 280 920 304 C1040 322 1110 296 1200 302 L1200 340 L0 340Z" fill="#0B1730" opacity=".28"/>
+</svg>
