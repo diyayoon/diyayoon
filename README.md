@@ -49,7 +49,11 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 ## ✧ Tech Stack &amp; Tools
 
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=python,php,js,html,css,docker,git,github,linux,bash,mysql,postgresql,nginx,vscode&amp;size=large&amp;effect=wave&amp;columns=5" width="100%" alt="Animated technology stack icons" />
+  <img
+    src="https://stats.pphat.top/icons?name=python,php,js,html,css,docker,git,github,linux,bash,mysql,postgresql,nginx,vscode&amp;size=small&amp;effect=wave&amp;columns=5"
+    width="72%"
+    alt="Animated technology stack icons"
+  />
 </p>
 
 <p align="center">
@@ -71,15 +75,15 @@ I document selected security labs and technical lessons as I learn. Topics inclu
 ## ✦ GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diyayoon&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1730&amp;title_color=9BE7FF&amp;icon_color=78BDEB&amp;text_color=E4F2FF&amp;rank_icon=github" alt="Diya's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyayoon&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1730&amp;title_color=9BE7FF&amp;text_color=E4F2FF&amp;langs_count=6" alt="Most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=diyayoon&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1730&amp;title_color=9BE7FF&amp;icon_color=78BDEB&amp;text_color=E4F2FF&amp;rank_icon=github" alt="Diya's GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=diyayoon&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1730&amp;title_color=9BE7FF&amp;text_color=E4F2FF&amp;langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=diyayoon&amp;hide_border=true&amp;background=0B1730&amp;ring=78BDEB&amp;fire=D8C5F2&amp;currStreakLabel=9BE7FF&amp;sideLabels=B7CBE2&amp;currStreakNum=E4F2FF&amp;sideNums=E4F2FF&amp;dates=8A9BB5" alt="GitHub contribution streak" />
 </p>
 
-## 🎮 Contribution Arcade — Galaga
+## 🎮 Contribution Arcade
 
 <p align="center">
   <picture>
