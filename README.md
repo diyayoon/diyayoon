@@ -63,7 +63,7 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 
 <p align="center">
   <img
-    src="https://stats.pphat.top/stats?username=diyayoon&amp;theme=tokyonight&amp;avatar_mode=radar"
+    src="https://stats.pphat.top/stats?username=diyayoon&amp;theme=cobalt&amp;avatar_mode=radar&amp;bgColor=%230B1730&amp;borderColor=%2378BDEB&amp;textColor=%23D9F5FF&amp;titleColor=%239FE7FF"
     width="100%"
     alt="Diya's GitHub statistics — radar dashboard"
   />
@@ -71,12 +71,12 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 
 <p align="center">
   <img
-    src="https://stats.pphat.top/languages?username=diyayoon&amp;theme=tokyonight&amp;type=card&amp;show_info=true&amp;info_outline=frame"
+    src="https://stats.pphat.top/languages?username=diyayoon&amp;theme=cobalt&amp;type=card&amp;show_info=true&amp;info_outline=frame"
     width="49%"
     alt="Diya's top programming languages"
   />
   <img
-    src="https://stats.pphat.top/languages?username=diyayoon&amp;theme=tokyonight&amp;type=pie"
+    src="https://stats.pphat.top/languages?username=diyayoon&amp;theme=cobalt&amp;type=pie"
     width="49%"
     alt="Diya's programming language distribution"
   />
