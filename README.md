@@ -1,4 +1,3 @@
-<!-- ═══════════════════════ FONTAINE HERO ═══════════════════════ -->
 <p align="center">
   <img src="./assets/fontaine-hero.svg" width="100%" alt="Hello, I'm Diya — Cybersecurity Engineering Student" />
 </p>
@@ -9,6 +8,8 @@
   </a>
   <a href="https://www.instagram.com/mhdyaisha/">
     <img src="https://img.shields.io/badge/Instagram-173B65?style=for-the-badge&amp;logo=instagram&amp;logoColor=D8C5F2" alt="Instagram" />
+  <a href="https://medium.com/@mahdiyaa87">
+    <img src="https://img.shields.io/badge/Read_my_notes-Medium-173B65?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Read my Medium notes" />
   </a>
 </p>
 
@@ -60,16 +61,6 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
   <sub>Tools and technologies I use or explore through coursework and hands-on projects.</sub>
 </p>
 
-## ◇ Learning Notes
-
-I document selected security labs and technical lessons as I learn. Topics include web vulnerabilities, Linux, networking, and practical defensive security.
-
-<p>
-  <a href="https://medium.com/@mahdiyaa87">
-    <img src="https://img.shields.io/badge/Read_my_notes-Medium-173B65?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Read my Medium notes" />
-  </a>
-</p>
-
 ---
 
 ## ✦ GitHub Analytics
@@ -95,16 +86,4 @@ I document selected security labs and technical lessons as I learn. Topics inclu
 
 <p align="center">
   <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a>
-</p>
-
----
-
-<p align="center">
-  <em>Still learning. Still building. Always curious.</em>
-  <br />
-  <sub>Thanks for stopping by — see you in the next commit. 💧</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D9F5FF,35:65B9E6,70:244D83,100:0B1730&amp;height=125&amp;section=footer" width="100%" alt="Fontaine hydro wave footer" />
 </p>
