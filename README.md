@@ -7,32 +7,20 @@
   <a href="https://www.linkedin.com/in/mahdiya-aisha-15fb2000">
     <img src="https://img.shields.io/badge/LinkedIn-173B65?style=for-the-badge&amp;logo=linkedin&amp;logoColor=D9F5FF" alt="LinkedIn" />
   </a>
-  <a href="mailto:Mahdiyaa87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-173B65?style=for-the-badge&amp;logo=gmail&amp;logoColor=D9F5FF" alt="Email" />
-  </a>
   <a href="https://www.instagram.com/mhdyaisha/">
     <img src="https://img.shields.io/badge/Instagram-173B65?style=for-the-badge&amp;logo=instagram&amp;logoColor=D8C5F2" alt="Instagram" />
-  </a>
-  <a href="https://github.com/diyayoon">
-    <img src="https://img.shields.io/badge/GitHub-diyayoon-173B65?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diyayoon&amp;style=flat-square&amp;color=65B9E6&amp;label=VISITORS" alt="Profile views" />
-  &amp;nbsp;
-  <img src="https://img.shields.io/badge/Currently-Learning-244D83?style=flat-square&amp;logo=bookstack&amp;logoColor=white" alt="Currently learning" />
-</p>
-
-<p align="center">
-  <em>“drunk on projects, sober on deadlines.”</em>
 </p>
 
 ---
 
 ## ✦ About Me
 
-I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam State Polytechnic**. I enjoy exploring how applications and infrastructure work—and, more importantly, how to make them more secure.
+I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam State Polytechnic**. I enjoy exploring how applications and infrastructure work and more importantly, how to make them more secure.
 
 - 🔐 Interested in **Web Security, Network Defense, and Secure Infrastructure**.
 - 🐍 Building with **Python** and exploring backend development.
@@ -41,7 +29,7 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 
 ## ◈ What I'm Exploring
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Application Security</h3>
@@ -67,29 +55,6 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 <p align="center">
   <sub>Tools and technologies I use or explore through coursework and hands-on projects.</sub>
 </p>
-
-## ❖ Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>❄️ Albis Antique</h3>
-      <p>A team-based e-commerce project focused on secure application development and infrastructure integration.</p>
-      <p><strong>Focus:</strong> Python · Flask · PostgreSQL · Docker · Nginx · Web Security</p>
-      <a href="https://github.com/diyayoon/pbl317">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-244D83?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Albis Antique project" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 PBL 205</h3>
-      <p>A project repository from my problem-based learning journey, reflecting my experience collaborating and developing technical solutions.</p>
-      <p><strong>Focus:</strong> Software Development · Engineering Practice · Teamwork</p>
-      <a href="https://github.com/diyayoon/pbl205">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-244D83?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View PBL 205 repository" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## ◇ Learning Notes
 
@@ -125,7 +90,7 @@ I document selected security labs and technical lessons as I learn. Topics inclu
 </p>
 
 <p align="center">
-  <sub>My GitHub activity, turned into an arcade game with <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a>.</sub>
+  <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a>
 </p>
 
 ---
