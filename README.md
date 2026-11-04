@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Hello, I'm Diya — Cybersecurity Engineering Student" />
+  <img src="./assets/banner.png" width="100%" alt="Hello, I'm Diya — Cybersecurity Engineering Student" />
 </p>
 
 <p align="center">
