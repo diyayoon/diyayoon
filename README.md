@@ -60,22 +60,21 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 ---
 
 
-
 ## ✦ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/diyayoon">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=diyayoon&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=0B1730&border_color=78BDEB&title_color=9FE7FF&text_color=D9F5FF&icon_color=78BDEB"
+      src="https://github-stats-extended.vercel.app/api?username=diyayoon&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true"
       width="49%"
-      alt="Diya's GitHub Statistics"
+      alt="GitHub Statistics"
     />
   </a>
   <a href="https://github.com/diyayoon">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=diyayoon&layout=compact&langs_count=6&theme=tokyonight&bg_color=0B1730&border_color=78BDEB&title_color=9FE7FF&text_color=D9F5FF"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=diyayoon&layout=compact&langs_count=6&theme=github_dark&hide_border=true"
       width="49%"
-      alt="Diya's Most Used Languages"
+      alt="Most Used Programming Languages"
     />
   </a>
 </p>
