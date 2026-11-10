@@ -24,38 +24,6 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 - 🐧 Learning through **Linux, containers, networking, and hands-on security labs**.
 - ⚙️ Enjoy connecting software development, DevOps, and cybersecurity in practical projects.
 
-## ◈ What I'm Exploring
-
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Application Security</h3>
-      <p align="center">Web security fundamentals<br />Burp Suite · OWASP concepts<br />Secure application workflows</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Network Defense</h3>
-      <p align="center">Network segmentation<br />OPNsense · Suricata · Wazuh<br />Monitoring and traffic analysis</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Infrastructure &amp; DevOps</h3>
-      <p align="center">Linux · Docker · Podman<br />Nginx · GitHub Actions<br />Containerized environments</p>
-    </td>
-  </tr>
-</table>
-
-## ✦ Tech Stack &amp; Tools
-
-<p align="center">
-  <img
-    src="https://stats.pphat.top/icons?name=python,php,js,html,css,docker,git,github,linux,kalilinux,bash,mysql,postgresql,nginx,vscode&amp;size=small&amp;effect=wave&amp;columns=5"
-    width="72%"
-    alt="Animated technology stack icons"
-  />
-</p>
-
----
-
-
 ## ✦ GitHub Analytics
 
 <p align="center">
@@ -74,6 +42,19 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
     />
   </a>
 </p>
+
+
+## ✦ Tech Stack &amp; Tools
+
+<p align="center">
+  <img
+    src="https://stats.pphat.top/icons?name=python,php,js,html,css,docker,git,github,linux,kalilinux,bash,mysql,postgresql,nginx,vscode&amp;size=small&amp;effect=wave&amp;columns=5"
+    width="72%"
+    alt="Animated technology stack icons"
+  />
+</p>
+
+---
 
 
 ## ✦ Contribution Arcade
