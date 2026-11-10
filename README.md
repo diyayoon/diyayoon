@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diyayoon&amp;style=flat-square&amp;color=65B9E6&amp;label=VISITORS" alt="Profile views" />
-</p>
-
 ---
 
 ## ✦ About Me
