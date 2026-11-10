@@ -59,27 +59,26 @@ I'm **Mahdiya Aisha (Diya)**, a Cybersecurity Engineering student at **Batam Sta
 
 ---
 
+
 ## ✦ GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://stats.pphat.top/stats?username=diyayoon&amp;theme=cobalt&amp;avatar_mode=radar&amp;bgColor=%230B1730&amp;borderColor=%2378BDEB&amp;textColor=%23D9F5FF&amp;titleColor=%239FE7FF"
-    width="100%"
-    alt="Diya's GitHub statistics — radar dashboard"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://stats.pphat.top/languages?username=diyayoon&amp;theme=cobalt&amp;type=card&amp;show_info=true&amp;info_outline=frame"
-    width="49%"
-    alt="Diya's top programming languages"
-  />
-  <img
-    src="https://stats.pphat.top/languages?username=diyayoon&amp;theme=cobalt&amp;type=pie"
-    width="49%"
-    alt="Diya's programming language distribution"
-  />
+  <a href="https://github.com/diyayoon">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=diyayoon&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=0B1730&border_color=78BDEB&title_color=9FE7FF&text_color=D9F5FF&icon_color=78BDEB"
+      height="190"
+      width="49%"
+      alt="Diya's GitHub statistics"
+    />
+  </a>
+  <a href="https://github.com/diyayoon">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyayoon&layout=compact&langs_count=6&theme=tokyonight&bg_color=0B1730&border_color=78BDEB&title_color=9FE7FF&text_color=D9F5FF"
+      height="190"
+      width="49%"
+      alt="Diya's most used programming languages"
+    />
+  </a>
 </p>
 
 ## ✦ Contribution Arcade
